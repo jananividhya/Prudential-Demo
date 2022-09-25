@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Fries",
+    "key": "fries",
+    "stock": 3,
+    "individualPrice": "9.00"
+  },
+  {
+    "name": "Latte",
+    "key": "latte",
+    "stock": 5,
+    "individualPrice": "30.00"
+  },
+  {
+    "name": "Burger",
+    "key": "burger",
+    "stock": 4,
+    "individualPrice": "20.00"
+  }
+]
